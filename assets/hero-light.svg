@@ -10,7 +10,7 @@
         100% { opacity: 1; }
       }
       @keyframes drawLine {
-        0% { stroke-dashoffset: 600; }
+        0% { stroke-dashoffset: 800; }
         100% { stroke-dashoffset: 0; }
       }
       .name {
@@ -34,13 +34,13 @@
       .line {
         stroke: #000000;
         stroke-width: 0.5;
-        stroke-dasharray: 600;
-        stroke-dashoffset: 600;
+        stroke-dasharray: 800;
+        stroke-dashoffset: 800;
         animation: drawLine 1.2s ease-in-out 2s forwards;
       }
     </style>
   </defs>
   <text x="400" y="100" text-anchor="middle" class="name">Mingi Hong</text>
   <text x="400" y="140" text-anchor="middle" class="title">Machine Learning Engineer</text>
-  <line x1="100" y1="180" x2="700" y2="180" class="line" fill="none" />
+  <line x1="0" y1="180" x2="800" y2="180" class="line" fill="none" />
 </svg>
