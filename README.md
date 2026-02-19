@@ -53,7 +53,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,go&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,go&theme=light" />
-  <img alt="Python, Go" src="https://skillicons.dev/icons?i=python,go&theme=light" width="110" />
+  <img alt="Python, Go" src="https://skillicons.dev/icons?i=python,go&theme=light" height="48" />
 </picture>
 
 <br><br>
@@ -69,7 +69,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,docker,kubernetes&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,docker,kubernetes&theme=light" />
-  <img alt="PyTorch, Docker, Kubernetes" src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes&theme=light" width="165" />
+  <img alt="PyTorch, Docker, Kubernetes" src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes&theme=light" height="48" />
 </picture>
 
 <br><br><br>
