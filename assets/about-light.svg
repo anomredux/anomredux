@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 70" width="400" height="70">
+  <defs>
+    <style>
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .about {
+        font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 300;
+        fill: #777777;
+        text-anchor: middle;
+        opacity: 0;
+      }
+      .l1 { animation: fadeIn 0.8s ease-out 0.2s forwards; }
+      .l2 { animation: fadeIn 0.8s ease-out 0.5s forwards; }
+      .l3 { animation: fadeIn 0.8s ease-out 0.8s forwards; }
+    </style>
+  </defs>
+  <text x="200" y="20" class="about l1">ML / MLOps Engineer at MTSCO</text>
+  <text x="200" y="40" class="about l2">Research in diffusion models</text>
+  <text x="200" y="60" class="about l3">M.S. Artificial Intelligence, Hanyang University</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 30" width="400" height="30">
+  <defs>
+    <style>
+      @keyframes cycle1 {
+        0%, 35% { opacity: 1; }
+        45%, 85% { opacity: 0; }
+        95%, 100% { opacity: 1; }
+      }
+      @keyframes cycle2 {
+        0%, 35% { opacity: 0; }
+        45%, 85% { opacity: 1; }
+        95%, 100% { opacity: 0; }
+      }
+      .tagline {
+        font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        fill: #888888;
+        text-anchor: middle;
+      }
+      .t1 { animation: cycle1 8s ease-in-out infinite; }
+      .t2 { opacity: 0; animation: cycle2 8s ease-in-out infinite; }
+    </style>
+  </defs>
+  <text x="200" y="20" class="tagline t1">Shipping ML to production.</text>
+  <text x="200" y="20" class="tagline t2">From models to infrastructure.</text>
+</svg>
