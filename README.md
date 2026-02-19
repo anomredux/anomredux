@@ -53,7 +53,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-languages-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-languages-light.svg" />
-  <img alt="Python, Go" src="assets/stack-languages-light.svg" width="160" />
+  <img alt="Python, Go" src="assets/stack-languages-light.svg" width="230" />
 </picture>
 
 <br><br>
@@ -69,7 +69,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-infra-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-infra-light.svg" />
-  <img alt="PyTorch, Docker, Kubernetes" src="assets/stack-infra-light.svg" width="260" />
+  <img alt="PyTorch, Docker, Kubernetes" src="assets/stack-infra-light.svg" width="380" />
 </picture>
 
 <br><br><br>

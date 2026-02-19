@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 70" width="260" height="70">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 100" width="380" height="100">
   <defs>
     <style>
       @keyframes fadeIn {
@@ -7,7 +7,7 @@
       }
       .label {
         font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 10px;
+        font-size: 15px;
         font-weight: 400;
         fill: #777777;
         text-anchor: middle;
@@ -27,15 +27,15 @@
     </symbol>
   </defs>
   <g class="g0">
-    <use href="#pytorch" x="10" y="5" width="40" height="40"/>
-    <text x="30" y="58" class="label">PyTorch</text>
+    <use href="#pytorch" x="10" y="5" width="60" height="60"/>
+    <text x="40" y="85" class="label">PyTorch</text>
   </g>
   <g class="g1">
-    <use href="#docker" x="110" y="5" width="40" height="40"/>
-    <text x="130" y="58" class="label">Docker</text>
+    <use href="#docker" x="160" y="5" width="60" height="60"/>
+    <text x="190" y="85" class="label">Docker</text>
   </g>
   <g class="g2">
-    <use href="#k8s" x="210" y="5" width="40" height="40"/>
-    <text x="230" y="58" class="label">K8s</text>
+    <use href="#k8s" x="310" y="5" width="60" height="60"/>
+    <text x="340" y="85" class="label">K8s</text>
   </g>
 </svg>

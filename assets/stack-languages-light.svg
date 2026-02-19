@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 70" width="160" height="70">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 100" width="230" height="100">
   <defs>
     <style>
       @keyframes fadeIn {
@@ -7,7 +7,7 @@
       }
       .label {
         font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 10px;
+        font-size: 15px;
         font-weight: 400;
         fill: #999999;
         text-anchor: middle;
@@ -23,11 +23,11 @@
     </symbol>
   </defs>
   <g class="g0">
-    <use href="#python" x="10" y="5" width="40" height="40"/>
-    <text x="30" y="58" class="label">Python</text>
+    <use href="#python" x="10" y="5" width="60" height="60"/>
+    <text x="40" y="85" class="label">Python</text>
   </g>
   <g class="g1">
-    <use href="#go" x="110" y="5" width="40" height="40"/>
-    <text x="130" y="58" class="label">Go</text>
+    <use href="#go" x="160" y="5" width="60" height="60"/>
+    <text x="190" y="85" class="label">Go</text>
   </g>
 </svg>
