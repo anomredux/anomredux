@@ -114,13 +114,21 @@
 
 <br><br>
 
-[![Profile](https://img.shields.io/badge/Profile-mghong.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://mghong.dev/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-me@mghong.dev-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:me@mghong.dev)
-
-<br><br>
-
-[![Hits](https://hits.sh/github.com/anomredux.svg?style=flat-square&label=visitors&color=000000&labelColor=000000)](https://hits.sh/github.com/anomredux/)
+<a href="https://mghong.dev/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-profile-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-profile-light.svg" />
+  <img alt="Profile" src="assets/contact-profile-light.svg" width="80" />
+</picture>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:me@mghong.dev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-email-light.svg" />
+  <img alt="Email" src="assets/contact-email-light.svg" width="80" />
+</picture>
+</a>
 
 <br>
 

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 100" width="80" height="100">
+  <defs>
+    <style>
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .label {
+        font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        fill: #777777;
+        text-anchor: middle;
+      }
+      .g0 { opacity: 0; animation: fadeIn 0.5s ease-out 0.5s forwards; }
+    </style>
+    <symbol id="mail" viewBox="0 0 24 24">
+      <path fill="#cccccc" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+    </symbol>
+  </defs>
+  <g class="g0">
+    <use href="#mail" x="10" y="5" width="60" height="60"/>
+    <text x="40" y="85" class="label">Email</text>
+  </g>
+</svg>
