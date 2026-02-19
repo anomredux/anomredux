@@ -43,33 +43,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-languages-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/label-languages-light.svg" />
-  <img alt="" src="assets/label-languages-light.svg" width="400" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,go&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,go&theme=light" />
-  <img alt="Python, Go" src="https://skillicons.dev/icons?i=python,go&theme=light" width="104" height="48" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/label-mlops-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/label-mlops-light.svg" />
-  <img alt="" src="assets/label-mlops-light.svg" width="400" />
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,docker,kubernetes&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,docker,kubernetes&theme=light" />
-  <img alt="PyTorch, Docker, Kubernetes" src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes&theme=light" width="161" height="48" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img alt="Python, Go, PyTorch, Docker, Kubernetes" src="assets/stack-light.svg" width="520" />
 </picture>
 
 <br><br><br>
