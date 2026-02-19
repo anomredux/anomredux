@@ -8,7 +8,7 @@
       .divider {
         stroke: #d1d1d1;
         stroke-width: 0.5;
-        stroke-dasharray: 400 400;
+        stroke-dasharray: 800;
         stroke-dashoffset: 800;
         animation: expandLine 1.5s ease-in-out forwards;
       }
