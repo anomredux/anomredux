@@ -43,9 +43,33 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
-  <img alt="Python, Go, PyTorch, Docker, Kubernetes" src="assets/stack-light.svg" width="520" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/label-languages-light.svg" />
+  <img alt="" src="assets/label-languages-light.svg" width="400" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-languages-light.svg" />
+  <img alt="Python, Go" src="assets/stack-languages-light.svg" width="160" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-mlops-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/label-mlops-light.svg" />
+  <img alt="" src="assets/label-mlops-light.svg" width="400" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-infra-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-infra-light.svg" />
+  <img alt="PyTorch, Docker, Kubernetes" src="assets/stack-infra-light.svg" width="260" />
 </picture>
 
 <br><br><br>
