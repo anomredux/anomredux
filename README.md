@@ -83,9 +83,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-green-animate.svg" />
-  <img alt="Contribution" src="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-green-animate.svg" width="800" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-light.svg" />
+  <img alt="Contribution" src="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-light.svg" width="800" />
 </picture>
 
 <br><br><br>
@@ -106,9 +106,9 @@
 
 <br><br>
 
-<kbd><a href="https://mghong.dev/">Profile</a></kbd>
-&nbsp;&nbsp;
-<kbd><a href="mailto:me@mghong.dev">Email</a></kbd>
+[![Profile](https://img.shields.io/badge/Profile-mghong.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://mghong.dev/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-me@mghong.dev-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:me@mghong.dev)
 
 <br><br>
 
