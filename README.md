@@ -59,6 +59,14 @@
 <br><br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/label-contribution-light.svg" />
+  <img alt="" src="assets/label-contribution-light.svg" width="400" />
+</picture>
+
+<br><br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-light.svg" />
   <img alt="Contribution" src="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-light.svg" width="800" />
