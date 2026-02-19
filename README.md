@@ -83,9 +83,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-light.svg" />
-  <img alt="Contribution" src="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-3d-light.svg" width="800" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-green-animate.svg" />
+  <img alt="Contribution" src="https://raw.githubusercontent.com/anomredux/anomredux/output/profile-green-animate.svg" width="800" />
 </picture>
 
 <br><br><br>
