@@ -18,7 +18,7 @@
       .l3 { animation: fadeIn 0.8s ease-out 0.8s forwards; }
     </style>
   </defs>
-  <text x="400" y="35" class="about l1">ML / MLOps Engineer at MTSCO</text>
+  <text x="400" y="35" class="about l1">ML / MLOps Engineer at MTSCO (Technical Research Personnel)</text>
   <text x="400" y="75" class="about l2">Research in diffusion models</text>
   <text x="400" y="115" class="about l3">M.S. Artificial Intelligence, Hanyang University</text>
 </svg>
