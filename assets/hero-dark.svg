@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+  <defs>
+    <style>
+      @keyframes fadeSlideUp {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      @keyframes drawLine {
+        0% { stroke-dashoffset: 600; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .name {
+        font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 52px;
+        font-weight: 200;
+        fill: #ffffff;
+        opacity: 0;
+        animation: fadeSlideUp 0.8s ease-out 0.3s forwards;
+      }
+      .title {
+        font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        fill: #aaaaaa;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        opacity: 0;
+        animation: fadeIn 1s ease-out 1.2s forwards;
+      }
+      .line {
+        stroke: #ffffff;
+        stroke-width: 0.5;
+        stroke-dasharray: 600;
+        stroke-dashoffset: 600;
+        animation: drawLine 1.2s ease-in-out 2s forwards;
+      }
+    </style>
+  </defs>
+  <text x="400" y="100" text-anchor="middle" class="name">Mingi Hong</text>
+  <text x="400" y="140" text-anchor="middle" class="title">Machine Learning Engineer</text>
+  <line x1="100" y1="180" x2="700" y2="180" class="line" fill="none" />
+</svg>
