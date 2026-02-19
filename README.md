@@ -13,7 +13,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/tagline-light.svg" />
-  <img alt="Shipping ML to production." src="assets/tagline-light.svg" width="400" />
+  <img alt="Shipping ML to production." src="assets/tagline-light.svg" width="800" />
 </picture>
 
 <br><br><br>
@@ -21,7 +21,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg" />
-  <img alt="About" src="assets/about-light.svg" width="400" />
+  <img alt="About" src="assets/about-light.svg" width="800" />
 </picture>
 
 <br><br><br>
@@ -37,7 +37,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/techstack-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/techstack-light.svg" />
-  <img alt="" src="assets/techstack-light.svg" width="200" />
+  <img alt="" src="assets/techstack-light.svg" width="400" />
 </picture>
 
 <br><br>
@@ -45,7 +45,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/label-languages-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/label-languages-light.svg" />
-  <img alt="" src="assets/label-languages-light.svg" width="200" />
+  <img alt="" src="assets/label-languages-light.svg" width="400" />
 </picture>
 
 <br>
@@ -61,7 +61,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/label-mlops-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/label-mlops-light.svg" />
-  <img alt="" src="assets/label-mlops-light.svg" width="200" />
+  <img alt="" src="assets/label-mlops-light.svg" width="400" />
 </picture>
 
 <br>
@@ -101,7 +101,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/label-contact-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/label-contact-light.svg" />
-  <img alt="" src="assets/label-contact-light.svg" width="200" />
+  <img alt="" src="assets/label-contact-light.svg" width="400" />
 </picture>
 
 <br><br>

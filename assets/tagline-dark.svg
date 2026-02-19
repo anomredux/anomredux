@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 30" width="400" height="30">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="800" height="50">
   <defs>
     <style>
       @keyframes cycle1 {
@@ -13,7 +13,7 @@
       }
       .tagline {
         font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        font-size: 14px;
+        font-size: 28px;
         font-weight: 300;
         fill: #888888;
         text-anchor: middle;
@@ -22,6 +22,6 @@
       .t2 { opacity: 0; animation: cycle2 8s ease-in-out infinite; }
     </style>
   </defs>
-  <text x="200" y="20" class="tagline t1">Shipping ML to production.</text>
-  <text x="200" y="20" class="tagline t2">From models to infrastructure.</text>
+  <text x="400" y="36" class="tagline t1">Shipping ML to production.</text>
+  <text x="400" y="36" class="tagline t2">From models to infrastructure.</text>
 </svg>
