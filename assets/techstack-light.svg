@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 24" width="200" height="24">
+  <defs>
+    <style>
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .label {
+        font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 400;
+        fill: #999999;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        text-anchor: middle;
+        opacity: 0;
+        animation: fadeIn 0.8s ease-out 0.3s forwards;
+      }
+    </style>
+  </defs>
+  <text x="100" y="16" class="label">Tech Stack</text>
+</svg>
