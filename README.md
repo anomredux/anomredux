@@ -112,7 +112,7 @@
   <img alt="" src="assets/label-contact-light.svg" width="400" />
 </picture>
 
-<br><br>
+<br>
 
 <a href="https://mghong.dev/">
 <picture>

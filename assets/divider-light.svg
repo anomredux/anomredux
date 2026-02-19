@@ -10,7 +10,7 @@
         stroke-width: 0.5;
         stroke-dasharray: 800;
         stroke-dashoffset: 800;
-        animation: expandLine 1.5s ease-in-out forwards;
+        animation: expandLine 1.5s ease-in-out 0.8s forwards;
       }
     </style>
   </defs>

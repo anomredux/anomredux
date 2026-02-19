@@ -13,9 +13,9 @@
         text-anchor: middle;
         opacity: 0;
       }
-      .l1 { animation: fadeIn 0.8s ease-out 0.2s forwards; }
+      .l1 { animation: fadeIn 0.8s ease-out 0.4s forwards; }
       .l2 { animation: fadeIn 0.8s ease-out 0.5s forwards; }
-      .l3 { animation: fadeIn 0.8s ease-out 0.8s forwards; }
+      .l3 { animation: fadeIn 0.8s ease-out 0.6s forwards; }
     </style>
   </defs>
   <text x="400" y="35" class="about l1">ML / MLOps Engineer at MTSCO (Technical Research Personnel)</text>

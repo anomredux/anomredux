@@ -14,7 +14,7 @@
         text-transform: uppercase;
         text-anchor: middle;
         opacity: 0;
-        animation: fadeIn 0.8s ease-out 0.3s forwards;
+        animation: fadeIn 0.8s ease-out 1.0s forwards;
       }
     </style>
   </defs>

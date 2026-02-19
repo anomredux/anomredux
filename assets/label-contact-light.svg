@@ -1,6 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 36" width="400" height="36">
   <defs>
     <style>
+      @keyframes fadeIn {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
       .label {
         font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif;
         font-size: 20px;
@@ -9,6 +13,8 @@
         letter-spacing: 4px;
         text-transform: uppercase;
         text-anchor: middle;
+        opacity: 0;
+        animation: fadeIn 0.8s ease-out 2.8s forwards;
       }
     </style>
   </defs>
